@@ -1,3 +1,3 @@
 {
-    "root": "/.vuepress/dist"
+    "root": "./docs/.vuepress/dist"
 }
