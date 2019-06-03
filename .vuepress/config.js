@@ -1,5 +1,4 @@
 module.exports = {
-    base: '/',
     head: [
         ['link', { rel: 'icon', href: '/images/favicon.png' }]
     ],
