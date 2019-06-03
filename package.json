@@ -1,0 +1,29 @@
+{
+  "name": "refactr-graphl-workshop",
+  "version": "1.0.0",
+  "description": "Let's learn graphQl workshop for Refactr Tech Conference",
+  "author": "Jennifer Bland",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratracegrad/graphql-workshop.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build"
+  },
+  "keywords": [
+    "refactr",
+    "graphql",
+    "ratracegrad",
+    "jennifer",
+    "bland"
+  ],
+  "bugs": {
+    "url": "https://github.com/ratracegrad/graphql-workshop/issues"
+  },
+  "homepage": "https://github.com/ratracegrad/graphql-workshop/#readme",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
