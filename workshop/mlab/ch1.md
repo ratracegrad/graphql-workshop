@@ -6,7 +6,7 @@ So far all we have done is fetch data from a database. Now we are going to look 
 
 [Go to mlab](https://mlab.com) and register a new account. It is free to create an account. Once you have registered your account then login to your account. On your mLab homepage click the "Create new" button to create a mongoDb database.
 
-![create new](/images/createnew.png)
+![create new](/images/createNew.png)
 
 For the Cloud Provider click on "Amazon Web Services". For the Plan Type click on "Sandbox".  Then click the "Continue" button.
 
