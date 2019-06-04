@@ -15,12 +15,6 @@ module.exports = {
         ],
         sidebar: [
             {
-                title: 'Overview',
-                children: [
-                    '/workshop/overview/ch1'
-                ],
-            },
-            {
                 title: 'GraphQL Server',
                 children: [
                     '/workshop/server/ch1',
