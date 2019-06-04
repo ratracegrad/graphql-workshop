@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/',
+    base: '/graphql-workshop/',
     head: [
         ['link', { rel: 'icon', href: '/images/favicon.png' }]
     ],
