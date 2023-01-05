@@ -25,6 +25,6 @@
   "homepage": "https://github.com/ratracegrad/graphql-workshop/#readme",
   "license": "MIT",
   "dependencies": {
-    "vuepress": "^0.14.11"
+    "vuepress": "^1.9.7"
   }
 }
